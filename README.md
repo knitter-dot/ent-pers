@@ -28,7 +28,7 @@ Next Steps:
 - Investigate the possibilities of using an iPad for scanning.
 - Compare TrueDepth and Lidar applications on the iPad.
 
-![](/imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.001.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.002.jpeg)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.001.png)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.002.jpeg)
 
 Technology: Photogrammetry
 
@@ -65,7 +65,7 @@ Next Steps:
 - Analyze and compare the results of Scanlogics' photogrammetry and iPad scanning.
 - Decide on the technology to proceed with for further experiments.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.003.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.004.png)
+![](imgs/imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.003.png)![](imgs/imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.004.png)
 
 PRO:
 
@@ -89,9 +89,9 @@ May 18, 2022 \_ 3D Scan Technologies: Comparison
 - After comparing the available technologies at Amfi,  we decided to use photogrammetry with the Scanalounge
 - we took several elbows scan to use as topology test for the exploration
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.005.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.006.png)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.005.png)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.006.png)
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.007.png)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.007.png)
 
 -----
 Jun 12, 2022 \_ Remeshing: Initial Approach
@@ -108,7 +108,7 @@ Next Steps:
 
 - Explore alternative remeshing methods, including circle packing and Cockatoo plugin.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.008.png)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.008.png)
 
 -----
 Jun 15, 2022 \_ Remeshing: Circle Packing and Cockatoo
@@ -126,9 +126,9 @@ Next Steps:
 - Conduct extensive tests with Cockatoo.
 - Begin integration with knitting software such as Shima Seiki's Apex or Stoll's M1plus.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.009.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.010.jpeg)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.009.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.010.jpeg)
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.011.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.012.png)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.011.png)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.012.png)
 
 -----
 Jun 17, 2022 \_ Initial Tests
@@ -146,7 +146,7 @@ Next Steps:
 
 - Refine Cockatoo script for more accurate results in goring and increasing/decreasing.
 - Conduct tests with larger samples, such as a full sleeve or torso.
-- ![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.013.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.014.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.015.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.016.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.017.jpeg)
+- ![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.013.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.014.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.015.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.016.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.017.jpeg)
 -----
 July 5, 2022 \_ Coding and scanning
 
@@ -186,9 +186,9 @@ Next Steps:
 - Further refine the script to address the challenges observed.
 - Explore the balance between gauge and resolution to achieve the desired knitted outcome.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.018.jpeg)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.018.jpeg)
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.019.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.020.jpeg)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.019.png)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.020.jpeg)
 
 -----
 September 5, 2022\_Advancing Techniques: Elbow\_plating Sample
@@ -207,7 +207,7 @@ Next Steps:
 - Continue refining the script based on the insights gained.
 - Explore other techniques and innovations to further enhance the knitting process.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.021.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.022.jpeg)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.021.jpeg)![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.022.jpeg)
 
 -----
 September 20, 2022\_Complex Front Panel Exploration
@@ -225,7 +225,7 @@ Next Steps:
 - Address the challenges observed during the front panel exploration.
 - Dive deeper into the relationship between digital design, knitting instructions, and physical execution.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.023.png)
+![](imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.023.png)
 
 Limitation and Future Works
 
