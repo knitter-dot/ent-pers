@@ -10,9 +10,10 @@ Moving on, the **second package** delves into the world of remeshing. This phase
 
 The **third and final package** bridges the gap between design and production. It revolves around the sampling and iteration process, specifically between the Rhino/Grasshopper environment and the native 3D knitting software, namely Stoll’s M1plus and Shima Seiki’s Apex. The design truly comes to life in this phase, transforming from digital data into tangible knitted structures.
 
-In the pages of this journal I will keep sum of all the experiences done during this research.
+In the pages of this journal, I will keep the sum of all the experiences done during this research.
 
-**May 12, 2022 \_** 3D Scan Technologies: Initial Assessment
+-----
+May 12, 2022 \_ 3D Scan Technologies: Initial Assessment
 
 - Began assessment of various 3D scan technologies.
 - Initial focus on Scanlounge V2.5 by Scanlogics, using photogrammetry technology.
@@ -27,7 +28,7 @@ Next Steps:
 - Investigate the possibilities of using an iPad for scanning.
 - Compare TrueDepth and Lidar applications on the iPad.
 
-![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.001.png)![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.002.jpeg)
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.001.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.002.jpeg)
 
 Technology: Photogrammetry
 
@@ -49,7 +50,7 @@ Source:
 
 
 -----
-**May 16, 2022 \_** 3D Scan Technologies: iPad Scanning
+May 16, 2022 \_ 3D Scan Technologies: iPad Scanning
 
 - Conducted experiments with iPad scanning, achieving a max resolution of 0.5mm-1mm.
 - Observed that TrueDepth and Lidar technologies are time-consuming and sensitive to micro-movements.
@@ -64,7 +65,7 @@ Next Steps:
 - Analyze and compare the results of Scanlogics' photogrammetry and iPad scanning.
 - Decide on the technology to proceed with for further experiments.
 
-![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.003.png)![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.004.png)
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.003.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.004.png)
 
 PRO:
 
@@ -82,17 +83,18 @@ Source: <https://www.researchgate.net/publication/350729997_Comparison_of_iPad_P
 
 
 
-
-**May 18, 2022 \_** 3D Scan Technologies: Comparison
+-----
+May 18, 2022 \_ 3D Scan Technologies: Comparison
 
 - After comparing the available technologies at Amfi,  we decided to use photogrammetry with the Scanalounge
 - we took several elbows scan to use as topology test for the exploration
 
-![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.005.png)![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.006.png)
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.005.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.006.png)
 
-![](Aspose.Words.7c0701cc-7209-4de8-881f-630f5ad2e8a4.007.png)
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.007.png)
 
-**Jun 12, 2022 \_** Remeshing: Initial Approach
+-----
+Jun 12, 2022 \_ Remeshing: Initial Approach
 
 - Began work on remeshing the output from the scanner to create knitting instructions.
 - Initial attempts with Anemone in Rhinoceros Grasshopper, based on Carnegie Mellon's Textile Lab research.
@@ -105,10 +107,11 @@ Considerations:
 Next Steps:
 
 - Explore alternative remeshing methods, including circle packing and Cockatoo plugin.
------
-Journal Entry: August 10, 2022
 
-3\.2 Remeshing: Circle Packing and Cockatoo
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.008.png)
+
+-----
+Jun 15, 2022 \_ Remeshing: Circle Packing and Cockatoo
 
 - Conducted experiments with circle packing algorithm; faced issues with data loss and ordering.
 - Started working with Cockatoo, a Grasshopper plugin; promising initial results.
@@ -122,14 +125,18 @@ Next Steps:
 
 - Conduct extensive tests with Cockatoo.
 - Begin integration with knitting software such as Shima Seiki's Apex or Stoll's M1plus.
------
-Journal Entry: September 5, 2022
 
-3\.3 Sampling and Measurements: Initial Tests
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.009.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.010.jpeg)
+
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.011.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.012.png)
+
+-----
+Jun 17, 2022 \_ Initial Tests
 
 - Conducted detailed analysis of different samples knitted using our modified version of Cockatoo.
 - Observed the need for post-production process standardization across all samples.
 - Initial tests with “Elbow” sample highlighted issues in bitmap generation and manual corrections needed.
+- Traveled to Knitwearlab in Almere to do some test
 
 Considerations:
 
@@ -139,80 +146,99 @@ Next Steps:
 
 - Refine Cockatoo script for more accurate results in goring and increasing/decreasing.
 - Conduct tests with larger samples, such as a full sleeve or torso.
+- ![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.013.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.014.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.015.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.016.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.017.jpeg)
 -----
-Journal Entry: September 25, 2022
+July 5, 2022 \_ Coding and scanning
 
-3\.3 Sampling and Measurements: Large Scale Tests and Challenges
+- Did other body scan to prepare the material for further test.
+- Implement some extra module in Gh to add the code part to avoid the main errors.
 
-- Ran tests on an entire elbow sleeve and a front panel of a sleeveless sweater.
-- Encountered unpredictability in 2D shape and 3D topology when scaling up.
-- Noted the need for a system inside the script that maintains the general shape of the knitted piece.
+
+|Gore|Increase/Decrease|
+| :- | :- |
+|<p>- always over two rows</p><p>- going to the left: on rows 1-2, 3-4</p><p>- going to the right: on rows 2-3, 4-1 (offset over one row compared to the left side)</p><p>- can happen over an x amount of stitches in width - no limit</p><p>- insert a tuck stitch at the end of a gore point (only on one of the two rows in height)</p>|<p>- one color for moving stitches to the left, one for moving stitches to the right</p><p>- max two increases or two decreases (one left and one right) in a row</p><p>- Increase and decrease null each other, so if you have more than one type per row removes the less one</p><p>- increase and decrease works better on the edge of the piece, otherwise leaving marks in the knit</p>|
+
 
 Considerations:
 
-- Scaling up to larger samples, like a full sleeve or torso, has introduced new complexities. The unpredictability in 2D shape and 3D topology is a significant concern. It’s becoming clear that our algorithm needs to be more sophisticated to handle these larger, more complex shapes while maintaining the integrity of the design.
+- the variable are many, so we started to code the main issues; we will proceed step by step.
 
 Next Steps:
 
 - Develop a user interface within Rhino/Grasshopper for operator input.
 - Explore methods for automatic bitmap production for specific machines.
 - Consider testing with different stitch types beyond Single Jersey.
+-----
 
+July 15, 2022\_Head Sample: Navigating Gauge and Resolution
 
-**Entry 2: June 23, 2022 - Expanding 3D Scan Assessment**
+- Explored gauge and resolution using a 3D model of a human head.
+- Modified the script to address double row issues and used a 9-needles/inch Stoll machine for knitting.
+- Observed pronounced shape marks due to the lower gauge of 9 needles/inch, impacting both 3D topological emergence and the 2D shape.
 
-June 23, 2022, found me further immersed in the exploration of 3D scan technologies. The assessment of the Scanlounge V2.5 continued, revealing its ability to yield clean, high-resolution outputs. Yet, challenges associated with data handling and the absence of raw data persisted, prompting me to explore alternative avenues.
+Considerations:
 
-The enigmatic potential of iPad technologies continued to captivate my attention. Diving into the intricacies of the Lidar and TrueDepth applications, I deciphered their distinct capabilities and applications. As I journeyed through this month, my exploration expanded beyond the surface, leading me to appreciate the intricate dance between technology and research objectives.
+- The intricate relationship between gauge, resolution, and the final knitted outcome became evident.
+- The lower gauge significantly affected the visible 3D topological emergence and the 2D shape.
 
-**Entry 3: July 12, 2022 - Navigating Remeshing Approaches**
+Next Steps:
 
-July 12, 2022, marked my transition into the fascinating realm of remeshing approaches. Armed with insights from Carnegie Mellon's Textile Lab, I delved into the intricate world of transforming scanned data into knittable instructions. The Grasshopper platform, celebrated for its user-friendly coding approach and CAD software compatibility, beckoned as a suitable environment.
+- Further refine the script to address the challenges observed.
+- Explore the balance between gauge and resolution to achieve the desired knitted outcome.
 
-Within this landscape, I embarked on an exploration of three distinctive remeshing methodologies: iterative remeshing, circle packing, and the promising Cockatoo plugin by Max Eschenbach. Iterative remeshing unveiled its potential in dividing mesh sections, while circle packing intrigued me with its algorithmic elegance. The Cockatoo plugin, rooted in extensive research, emerged as a beacon of promise. These explorations set the stage for the depth of analysis and refinement to follow.
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.018.jpeg)
 
-**Entry 4: August 7, 2022 - Refining Remeshing Techniques**
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.019.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.020.jpeg)
 
-August 7, 2022, saw my focus on remeshing techniques intensify. I embarked on a journey of refining and fine-tuning the methodologies explored. Iterative remeshing, executed with the Anemone Grasshopper plugin, presented a spectrum of challenges, particularly concerning the translation of increasing and decreasing knitting instructions. Meanwhile, circle packing's potential in generating intricate row structures held me in awe, albeit with the complexity of mesh face ordering.
+-----
+September 5, 2022\_Advancing Techniques: Elbow\_plating Sample
 
-As my exploration matured, the Cockatoo plugin emerged as a robust solution. Its capacity to remesh geometries into a knittable topology, coupled with the conversion of underlying graphs into bitmap images, proved captivating. August marked the transition from experimental exploration to pragmatic implementation, paving the way for the convergence of theory and practice.
+- Refined the Cockatoo script to incorporate color variations.
+- Assigned different yarn carriers to distinct colors, enhancing the examination of short-rowing intricacies.
+- Knitted the Elbow\_plating sample, showcasing the intricate plating technique.
 
-**Entry 5: September 18, 2022 - Implementing Cockatoo in Practice**
+Considerations:
 
-September 18, 2022, witnessed the culmination of my theoretical inquiries as I embraced practical implementation. The Cockatoo plugin, standing as the beacon of remeshing solutions, took center stage. With the knowledge and insights gleaned from iterative remeshing and circle packing, I harnessed Cockatoo's prowess to transform scanned data into knittable instructions.
+- The refined approach allowed for a clearer understanding of short-rowing intricacies.
+- The relationship between digital design and physical knitting became more evident.
 
-The remeshing process, guided by Cockatoo's time-field simulation and graph-based approach, unfolded seamlessly. Rigorous testing and analysis affirmed its reliability, providing a deeper understanding of its successful implementation. This phase marked the harmonious integration of digital design and tangible knitting, symbolizing the culmination of a meticulous journey.
+Next Steps:
 
-**Entry 6: October 4, 2022 - Bridging Digital and Physical Realms**
+- Continue refining the script based on the insights gained.
+- Explore other techniques and innovations to further enhance the knitting process.
 
-October 4, 2022, heralded the transition into a new phase of exploration: Sampling and Measurements. Armed with refined remeshing techniques, I ventured into the realm of practical application. My goal was to bridge the gap between the digital realm of design and the tangible world of knitting.
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.021.jpeg)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.022.jpeg)
 
-In this phase, I knitted various samples using a Grasshopper recipe rooted in the enhanced Cockatoo extension. Through meticulous experimentation, I sought to comprehend the nuances between digital design files and physical knit samples. This process involved fine-tuning parameters such as offset surfaces and triangular re-meshing to optimize remeshing algorithms.
+-----
+September 20, 2022\_Complex Front Panel Exploration
 
-Yarn density checks were meticulously conducted for each sample, enabling a comprehensive understanding of stitch dimensions. These samples, executed in Single Jersey using merino wool, provided a tangible connection between digital design representations and physical knit outcomes.
+- Used a 3D body scan to create a sleeveless sweater divided into front and back panels.
+- Encountered unforeseen challenges leading to unpredictable results in both 2D shape and 3D topology.
 
-**Entry 7: November 15, 2022 - Elbow Sample: From Digital to Knit**
+Considerations:
 
-November 15, 2022, marked a significant milestone as I applied the insights gained from earlier explorations to knit a specific sample. Leveraging a 3D model of an elbow captured through the Scanlounge V2.5, I set out to produce a knitted representation. Utilizing an 18-gauge Stoll ADF machine (18 needles/inch), I embarked on the journey of translating digital design into tangible fabric.
+- Translating complex shapes into accurate knitting instructions requires further refinement.
+- The project's scope expanded due to the intricate interplay between digital geometry, knitting instructions, and physical execution nuances.
 
-However, challenges surfaced during the translation process. The initial results within Cockatoo produced a bitmap riddled with errors that required manual intervention. As I grappled with these intricacies, I began to establish general rules that could be scripted back into Cockatoo for more precise results in goring and the complex realm of increasing and decreasing. This iterative process highlighted the complexities of translating intricate digital geometries into tangible knit instructions.
+Next Steps:
 
-**Entry 8: December 23, 2022 - Head Sample: Navigating Gauge and Resolution**
+- Address the challenges observed during the front panel exploration.
+- Dive deeper into the relationship between digital design, knitting instructions, and physical execution.
 
-December 23, 2022, ushered in a new challenge: the exploration of gauge and resolution. With a 3D model of a human head, I set out to knit a sample using a modified script to address double row issues. Utilizing a 9-needles/inch Stoll machine, the sample's execution presented both insights and challenges.
+![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.023.png)
 
-The lower gauge of 9 needles/inch, while impacting visible 3D topological emergence, significantly affected the 2D shape. Notably, the shape marks became more pronounced. This endeavor underscored the intricate relationship between gauge, resolution, and the final knitted outcome.
+Limitation and Future Works
 
-**Entry 9: January 14, 2023 - Advancing Techniques: Elbow\_plating Sample**
+- The sampling process highlighted the complexities of the knitting process.
+- The remeshing process faces challenges when scaling up samples.
 
-As the new year began on January 14, 2023, I turned my attention to advancing techniques. Building upon the insights gained, I refined the Cockatoo script to incorporate color variations. This innovation allowed for the assignment of different yarn carriers on distinct colors, enhancing the examination of short-rowing intricacies.
+Considerations:
 
-With this refined approach, I knitted the Elbow\_plating sample, pushing the boundaries of our research. The intricate plating technique, facilitated by script enhancements, offered a clearer understanding of short-rowing intricacies. This progression marked a significant step towards unraveling the complex relationship between digital design and physical knitting.
+- The placement of gores and increases and decreases in knitted samples appear random.
+- Proprietary software like M1plus or Apex poses challenges due to their 2-dimensional architecture.
 
-**Entry 10: February 28, 2023 - Complex Front Panel Exploration**
+Next Steps:
 
-February 28, 2023, witnessed a foray into complexity with the exploration of a front body panel. Leveraging a 3D body scan, I embarked on creating a sleeveless sweater divided into front and back panels. However, this intricate endeavor presented unforeseen challenges, leading to unpredictable results in both 2D shape and 3D topology.
-
-This endeavor reinforced the notion that translating complex shapes into accurate knitting instructions requires further refinement and sophistication. As I navigated this complexity, the project's scope expanded to address the intricate interplay between digital geometry, knitting instructions, and the nuances of physical execution.
-
+- Explore strategies to reduce the randomness of the remeshing process.
+- Develop tools to make the knitting process more accessible and accurate.
 
