@@ -28,7 +28,7 @@ Next Steps:
 - Investigate the possibilities of using an iPad for scanning.
 - Compare TrueDepth and Lidar applications on the iPad.
 
-![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.001.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.002.jpeg)
+![](/imgs/Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.001.png)![](Aspose.Words.bb5e59e0-5571-4607-9f43-8e014e8e0e72.002.jpeg)
 
 Technology: Photogrammetry
 
